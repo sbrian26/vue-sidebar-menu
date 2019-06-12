@@ -1,6 +1,6 @@
 # vue-sidebar-menu
 
-A Vue.js Sidebar Menu Component
+A (forked) Vue.js Sidebar Menu Component
 
 ## Demo
 
